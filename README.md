@@ -1,4 +1,4 @@
-# AXI Codility Techincal Interview
+# AXI Codility Technical Interview
 
 A test that was issuedd but never got any feed back on, so presume it was a fake test or they were not inclinded to follow up with people who took their time to answer their interview questions.
 
